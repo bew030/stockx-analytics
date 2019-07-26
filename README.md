@@ -1,2 +1,2 @@
-# anal_sx
+# stockx-analysis
 Analysis of StockX prices.
