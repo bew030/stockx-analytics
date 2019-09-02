@@ -1,1 +1,0 @@
-from emailsdk.ereader import *
